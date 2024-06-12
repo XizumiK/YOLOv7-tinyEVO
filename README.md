@@ -3,6 +3,7 @@
 Base on implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
 Add GAM(Global Attention Mechanism) module & Mirco Traget Detect Layer to enhance small target detection
+Inspired by [YOLOv7-MA: Improved YOLOv7-Based Wheat Head Detection and Counting. Remote Sensing, 15(15), 3770.](https://www.mdpi.com/2072-4292/15/15/3770)
 
 ![YOLOv7-tinyEvo's structure](./asset/YOLOv7-tinyEvo%20Structure.png)
 
